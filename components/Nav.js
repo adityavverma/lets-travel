@@ -24,7 +24,7 @@ const Nav = ({ authed }) => (
         />
       </svg>
 
-      <span className="text-xl font-semibold tracking-tight">Time to Have More Fun</span>
+      <span className="text-xl font-semibold tracking-tight">Lets Travel</span>
     </div>
     <div>
       {authed && (
