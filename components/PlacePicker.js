@@ -70,7 +70,7 @@ const PlacePicker = () => {
           <button
             className="inline-flex items-center px-6 py-3 rounded-lg shadow bg-teal-500 hover:bg-teal-400 hover:shadow-lg focus:outline-none focus:bg-teal-400 text-white font-small tracking-wide"
             onClick={queryPlaces}>
-            Tell me already!!!
+            Goooooo!!!
           </button>
 
           {showClearButton && (
