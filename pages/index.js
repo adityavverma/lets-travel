@@ -49,7 +49,7 @@ const Home = () => {
 
   return (
     <div>
-      <Head title="Time to Have More Fun" />
+      <Head title="Lets Travel" />
 
       <Nav authed={authed} />
 
